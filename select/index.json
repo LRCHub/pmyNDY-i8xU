@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Beautiful Scars",
+  "base_artist": "Maximillian",
+  "createdAt": "2026-02-27T15:45:14.340149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beautiful Scars",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Beautiful_Scars_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beautiful Scars (Acoustic / Bonus Track)",
+      "artist": "Maximillian",
+      "has_synced": true,
+      "path": "select/02_Beautiful_Scars_(Acoustic___Bonus_Track)_Maximillian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beautiful Scars (Acoustic)",
+      "artist": "Maximillian",
+      "has_synced": true,
+      "path": "select/03_Beautiful_Scars_(Acoustic)_Maximillian.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful Scars",
+      "artist": "Disciple",
+      "has_synced": false,
+      "path": "select/04_Beautiful_Scars_Disciple.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beautiful Scars",
+      "artist": "Maximillian",
+      "has_synced": true,
+      "path": "select/05_Beautiful_Scars_Maximillian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful Scars",
+      "artist": "Steven Curtis Chapman",
+      "has_synced": false,
+      "path": "select/06_Beautiful_Scars_Steven_Curtis_Chapman.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Scars (Maximillian x Moira Dela Torre) - Acoustic",
+      "artist": "Maximillian feat. Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/07_Beautiful_Scars_(Maximillian_x_Moira_Dela_Torre)_-_Acoustic_Maximillian_feat._Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beautiful Scars (acoustic)",
+      "artist": "Maximillian & Moira Dela Torre",
+      "has_synced": true,
+      "path": "select/08_Beautiful_Scars_(acoustic)_Maximillian_&_Moira_Dela_Torre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Scars",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/09_Beautiful_Scars_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beautiful Scars (feat. PnB Rock)",
+      "artist": "Kevin Gates feat. PnB Rock",
+      "has_synced": true,
+      "path": "select/10_Beautiful_Scars_(feat._PnB_Rock)_Kevin_Gates_feat._PnB_Rock.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful Scars (feat. PnB Rock)",
+      "artist": "Kevin Gates",
+      "has_synced": true,
+      "path": "select/11_Beautiful_Scars_(feat._PnB_Rock)_Kevin_Gates.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful Scars (Official Video)",
+      "artist": "Maximillian",
+      "has_synced": true,
+      "path": "select/12_Beautiful_Scars_(Official_Video)_Maximillian.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beautiful Scars (Maximillian x Moira Dela Torre) - Acoustic",
+      "artist": "Maximillian",
+      "has_synced": true,
+      "path": "select/13_Beautiful_Scars_(Maximillian_x_Moira_Dela_Torre)_-_Acoustic_Maximillian.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful Scars",
+      "artist": "Maximillian",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_Scars_Maximillian.txt"
+    }
+  ]
+}
